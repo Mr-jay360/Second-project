@@ -1,0 +1,61 @@
+body{
+background-color: aquamarine;
+
+}
+
+
+hr{
+border-width: 10px;
+border-color: white;
+
+}
+.ending{
+    text-transform: uppercase;
+    background-color: white;
+    margin-bottom: -12px;
+    margin-left: -10px;
+    margin-right: 10px;
+    }
+    .navbar{
+        color: white;
+      display: inline-block;
+         position: relative;
+         left: 1210px;
+     text-decoration: none;
+     font-size: larger;
+     word-spacing: 9px;
+     }
+     .navbar a{
+         text-decoration: none;
+         color: black;
+     
+       padding-right: -20px;
+     
+     }
+     .navbar a:hover{
+         color:aqua;
+         text-decoration-line: underline;
+         text-decoration-color:white;
+         text-decoration-style: solid;
+         text-decoration-thickness: 4px;
+         
+     }
+     
+     .header{
+         
+         position: fixed;
+     margin: -9px;
+         background-color: gold;
+         margin-top: -9px;
+         width: 2100px;
+         height: 50px;
+     }
+     .logo{
+         text-transform: capitalize;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 3em;
+     font-weight: 900;
+     color: white;
+     position: absolute;
+     
+     }

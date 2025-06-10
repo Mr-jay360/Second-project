@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)file:///C:/Users/fujitsu/Downloads/destiny%20web%20design/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>learning programming</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        
+        <div class="logo">
+            MJ
+        </div>
+        <br>
+        <nav class="navbar"> 
+         <a href="#">Home</a>
+         <a href="#">about</a>
+         <a href="#">Higher courses </a>
+         <a href="#">Contact</a>
+         <a href="#">Questions</a>
+         
+         </nav>
+</header>
+<center><h1 class="welcome"><em>WELCOME DEAR</em></h1></center>
+
+<p class="para"><h3> Hey there, do you wish to learn about programming from scratch? Well your at the right place. In our website we train willing students who are ready to learn programming from scratch till they are fit to code on their own as proffesionals. 
+    stick with us as we show you all we have in store for your.</h3>
+</p>
+<p><h3> Before you dive into programmining we would like to give you a word of encouragement. At first to be frank, programming at a certain level is difficult and 
+    so many people fall out at this point because they feel that they cant conquer that heavy wall, but as a true programmer you have to bear in mind that some people have
+come across this sort of challenges and has conquered through so build up courage and follow up on every step of the lesson and before you know it you've become a professional programmer. </h3></p>
+
+
+
+<br>
+<center><h1 class="heading"><strong>List of available courses</strong></h1></center>
+<h3>
+<ol>
+<a href="htmlcourse.html"><li>HTML(Hyper Text Markup Language)</a></li>
+<a href="#"><li>CSS (Cascading style sheets)</a></li>
+<a href="#"><li>BOOTSTAP</a> </li>
+<a href="#"><li>JAVASCRIPT</a></li>
+<a href="#"><li>PYTHON</a></li>
+<a href="#"><li>SQL</a></li>
+<a href="#"><li>NODE.JS</a></li>
+</ol>
+
+
+</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+</body></html>
